@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aylinayduvan1&label=Profile%20views&color=0e75b6&style=flat" alt="aylinayduvan1" /> </p>
 
-- 🌱 I’m currently learning **C#, React, Angular**
+- 🌱 I’m currently learning **Python, PL/SQL, React, Angular**
 
 - 📫 How to reach me **aylinnayduvann@gmail.com**
 
